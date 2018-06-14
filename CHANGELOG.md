@@ -8,6 +8,12 @@ All  changes to this project will be documented in this file.
 * N/A
 <br/><br/>
 
+## v1.1.0
+### Date: 2018-06-14
+#### Modified local directory path
+* Changed local directory path "\Lesson1Canvas\" to "\Lesson1-Canvas\".
+<br/><br/>
+
 ## v1.0.0
 ### Date: 2018-06-12
 #### Baseline
